@@ -2,8 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3a3274&size=35&center=true&vCenter=true&width=1000&lines=Olá!🙋‍♀️+Me+chamo+Bruna+Guimarães;Seja+Bem+Vindo!)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="250px" src="https://streak-stats.demolab.com?user=BruninhaG&theme=shadow_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&dates=FFF&currStreakLabel=FFF&sideLabels=FFF" /> 
+<div align="center"> 
+  
+  ![BruninhaG's Stats](https://github-readme-stats.vercel.app/api?username=BruninhaG&theme=outrun&show_icons=true&hide_border=true&count_private=false)
+  ![BruninhaG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BruninhaG&theme=outrun&hide_border=true)
 </div>
 
 <hr>
