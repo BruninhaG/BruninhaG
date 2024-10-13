@@ -26,4 +26,6 @@
   <a href="https://www.linkedin.com/in/bruna-guimar%C3%A3es-69824124b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
 
+<img align="center" alt="GIF" src="https://github.com/BruninhaG/BruninhaG-code/blob/main/Coding.gif" width="500" height="320" />
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e86af0&height=120&section=footer"/>
